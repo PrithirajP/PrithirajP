@@ -21,5 +21,5 @@ I am a Computer Science and Engineering student at the National Institute of Tec
 * **Chat App:** A real-time chat platform utilizing the MERN stack and Socket.IO for low-latency messaging, complete with message persistence and secure WebSocket layers.
 
 ### 📫 Let's Connect!
-* **LinkedIn:** [prithiraj-paul](https://linkedin.com/in/prithiraj-paul)
+* **LinkedIn:** [prithiraj-paul](https://www.linkedin.com/in/prithiraj-paul-404464216/)
 * **Email:** paulprithiraj89@gmail.com
